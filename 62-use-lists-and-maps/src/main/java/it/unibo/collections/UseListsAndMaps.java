@@ -98,13 +98,13 @@ public final class UseListsAndMaps {
 
         //required testing output
 
-        IO.println("Insert test:\n");
+        IO.println("\nInsert test:\n");
         IO.println("ArrayList:");
         testInsert(array);
         IO.println("LinkedList:");
         testInsert(array2);
 
-        IO.println("Read test:\n");
+        IO.println("\nRead test:\n");
         IO.println("ArrayList:");
         testRead(array);
         IO.println("LinkedList:");
